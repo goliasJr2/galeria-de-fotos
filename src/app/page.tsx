@@ -7,7 +7,7 @@ import { Modal } from "@/components/modal";
 
 export default function Home() {
   //Criando states para mostrar modal e para fechar modal
-  //
+
   const [showModal, setShowModal] = useState(false);
   const [imageOfModal, setImageOfModal] = useState("");
 
